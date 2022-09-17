@@ -4,6 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/DominicBostick/LABURL)
   - [Azure Sentinel (SIEM)](https://github.com/DominicBostick/LABURL)
+  - [Azure Sentinel (SIEM)](https://github.com/DominicBostick/LABURL)
+  - [Custom/Proof of Concept File Integrity Monitor (FIM)](https://github.com/DominicBostick/LABURL)
   
 <h2>📺 Popular YouTube Videos</h2>
 
