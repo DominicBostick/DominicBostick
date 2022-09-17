@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/DominicBostick/LABURL)
+  - [Azure Sentinel (SIEM)](https://github.com/DominicBostick/LABURL)
   
 <h2>📺 Popular YouTube Videos</h2>
 
