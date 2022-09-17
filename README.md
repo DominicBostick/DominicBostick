@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominic! <br/><a href="https://www.linkedin.com/in/dominicbostick/">Cybersecurity Professional</a>
+<h1>Hi, I'm Dominic! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
